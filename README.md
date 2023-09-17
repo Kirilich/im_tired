@@ -1,8 +1,8 @@
-title: Nabieva_Liia
+title: <Nabieva_Liia>
 
-description: Good person
+description: <Good person>
 
-theme: jekyll-theme-hackertheme: jekyll-theme-hacker
+theme: <jekyll-theme-hackertheme: jekyll-theme-hacker>
 
 ---
 layout: default
